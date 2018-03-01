@@ -1,5 +1,4 @@
 # Checkheftgepflegt, aber mit Vertrauen durch Blockchain 
--------------------------------------------------------------
 Auto mit Hilfe von sowieso schon uniquer Seriennummer/Fahrgestellnummer "annoym" identifizierbar machen und wichtige "Auto-Ereignisse"
 auf  Blockchain speichern.
 
